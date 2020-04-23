@@ -9,6 +9,8 @@
 /data/kiba/ -> ./data/kiba/  
 dta11에 저장.
 
+toy problem 밑에 
+FLAGS.test_path='./data/mytest/'
 ### 요건 논문에 있는건데, 깃허브에있는거랑 다르네?
 --seq_window_lengths : default=[4 ,8 ,12],  
 --smi_window_lengths : default=[4 ,6 ,8],  
