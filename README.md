@@ -5,8 +5,9 @@
 
 ### note
 /data/kiba/ -> ./data/kiba/
-
-
+--seq_window_lengths : default=[4 ,8 ,12],
+--smi_window_lengths : default=[4 ,6 ,8],
+--num_windows : [32,64,96]
 # About DeepDTA: deep drug-target binding affinity prediction
 
 The approach used in this work is the modeling of protein sequences and compound 1D representations (SMILES) with convolutional neural networks (CNNs) to predict the binding affinity value of drug-target pairs.
