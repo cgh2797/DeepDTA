@@ -1,6 +1,7 @@
 ### env
 1. make env
 2. pip install --upgrade tensorflow-cpu==1.15.0
+3. pip install keras
 
 ### note
 /data/kiba/ -> ./data/kiba/
