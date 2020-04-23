@@ -1,3 +1,11 @@
+### env
+1. make env
+2. pip install --upgrade tensorflow-cpu==1.15.0
+
+### note
+/data/kiba/ -> ./data/kiba/
+
+
 # About DeepDTA: deep drug-target binding affinity prediction
 
 The approach used in this work is the modeling of protein sequences and compound 1D representations (SMILES) with convolutional neural networks (CNNs) to predict the binding affinity value of drug-target pairs.
