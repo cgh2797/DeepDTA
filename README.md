@@ -1,5 +1,7 @@
 ### env
-1. make env
+1. make env  
+ conda create -n my_python_env python=3.5
+ 
 2. pip install --upgrade tensorflow-cpu==1.15.0
 3. pip install keras
 
