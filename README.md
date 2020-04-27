@@ -11,10 +11,10 @@ dta11에 저장.
 
 toy problem 밑에 
 FLAGS.test_path='./data/mytest/'
-### 요건 논문에 있는건데, 깃허브에있는거랑 다르네?
+### 파라미터
 --seq_window_lengths : default=[4 ,8 ,12],  
 --smi_window_lengths : default=[4 ,6 ,8],  
---num_windows : [32,64,96]  
+--num_windows : [32]  
 # About DeepDTA: deep drug-target binding affinity prediction
 
 The approach used in this work is the modeling of protein sequences and compound 1D representations (SMILES) with convolutional neural networks (CNNs) to predict the binding affinity value of drug-target pairs.
